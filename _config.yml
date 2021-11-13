@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Kyu Hur
-title: Software Engineer | Project Researcher | Research Assistant
-email: kyuhur2@gmail.com
+title: <b>Software Engineer</b> | <b>Project Researcher</b> | <b>Research Intern</b>
+email: <b>kyuhur2@gmail.com</b>
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -17,12 +17,13 @@ darkmode: never
 github_username: kyuhur2
 linkedin_username: kyu-hur-143620b6
 orcid_username: 0000-0002-0690-345X
-
-# Additional icon links
 additional_links:
 - title: googlescholar
-  icon: fas google
+  icon: fas fa-google
   url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
+- title: mail
+  icon: fas fa-envelope
+  url: mailto:kyuhur2@gmail.com
 # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 
 # Google Analytics and Tag Manager
