@@ -105,10 +105,10 @@ content:
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
-    content:
-      - layout: text
-          - Python
-          - R
+    content: |
+      - Python
+      - R
+      - SQL
 
 # Footer
 footer_show_references: true
