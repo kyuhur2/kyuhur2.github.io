@@ -50,7 +50,7 @@ content:
         sub_title: Software Engineer
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Develop and optimize time-series demand forecasting models utilizing the Python <b>GluonTS</b>, AutoTS, AutoGluon and AutoML frameworks
+          -	Develop and optimize time-series demand forecasting models utilizing the Python <b>GluonTS</b>, <b>AutoTS</b>, <b>AutoGluon</b> and <b>AutoML</b> frameworks
           -	Communicate directly with the CTO and front-end team to deliver informational dashboards and metrics to non-technical end-users
           -	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
 
@@ -62,7 +62,7 @@ content:
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Conduct research related to the Wearables Project
-          - Draft and edit research papers
+          - Draft and edit sections on publications
 
       - layout: left
         title: University of Tokyo
@@ -75,14 +75,14 @@ content:
           -	Explore the association between ozone and temperature and their impact on the suicide rate
 
       - layout: left
-        title: The Janssen Pharmaceutical Companies of Johnson and Johnson
+        title: Johnson & Johnson
         link: https://www.janssen.com/japan/
         link_text: Janssen Pharmaceutical
         sub_title: Medical Affairs
         caption: Apr 2020 - Dec 2020
         description: | # this will include new lines to allow paragraphs
           -	Spearheaded a three-member project in R to quantify the impact of Macitentan
-          - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in different populations
+          - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in Japanese populations
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,16 +90,16 @@ content:
       - layout: left
         title: University of Tokyo
         caption: Mar 2021
-        sub_title: Masters of Science in Health Sciences
+        sub_title: MSc in Health Sciences
         description: | # this will include new lines to allow paragraphs
           - Investigated the modifying effect of pollen on the association between air pollution and mortality
-          - Graduate Teaching Assistant, [Department of Global Environmental Health](https://sites.google.com/m.u-tokyo.ac.jp/envhealth) (Environmental Health and Research Methods)
+          - Graduate Teaching Assistant, [Department of Global Environmental Health](https://sites.google.com/m.u-tokyo.ac.jp/envhealth)
           - Graduate Research Assistant, [Department of Human Ecology](http://www.humeco.m.u-tokyo.ac.jp/en/)
 
       - layout: left
         title: University of Illinois at Urbana-Champaign
         caption: May 2018
-        sub_title: Bachelors of Science in Liberal Arts & Sciences, Chemistry
+        sub_title: BSc in Liberal Arts & Sciences, Chemistry
         description: | # this will include new lines to allow paragraphs
           - Academic Researcher, [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
           - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
