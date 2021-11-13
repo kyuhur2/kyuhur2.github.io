@@ -20,9 +20,6 @@ additional_links:
 - title: googlescholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
-- title: mail
-  icon: fas fa-envelope
-  url: mailto:kyuhur2@gmail.com
 - title: download
   icon: fas fa-file-download
   url: https://github.com/kyuhur2/kyuhur2.github.io/raw/main/resume/Kyu%20Hur%20-%20Resume%20(Software%20Engineering).pdf
