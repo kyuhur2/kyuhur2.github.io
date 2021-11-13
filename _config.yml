@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Kyu Hur
-title: Software Engineer | Project Researcher | Research Intern
-email: <b>kyuhur2@gmail.com</b>
+title: Software Engineer
+email: kyuhur2@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -19,7 +19,7 @@ linkedin_username: kyu-hur-143620b6
 orcid_username: 0000-0002-0690-345X
 additional_links:
 - title: googlescholar
-  icon: fas fa-google
+  icon: fab fa-google
   url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
 - title: mail
   icon: fas fa-envelope
@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>Python</mark>, <mark>R</mark>, and <mark>SQL</mark>.
 
 content:
-  - title: Work Experience (Selected) # Title for the section
+  - title: <b>Work Experience (Selected)</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -85,7 +85,7 @@ content:
           -	Spearheaded a three-member project in R to quantify the impact of Macitentan
           - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in Japanese populations
 
-  - title: <b>Education # Title for the section
+  - title: <b>Education</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
