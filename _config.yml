@@ -103,10 +103,13 @@ content:
           - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
           - Research Assistant, [Illinois State Water Survey](https://www.isws.illinois.edu/)
 
-  - title: Skill # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
-    description: |
-      - Python
+    content:
+      - layout: left
+      description: |
+        - Python
+        - R
 
 # Footer
 footer_show_references: true
