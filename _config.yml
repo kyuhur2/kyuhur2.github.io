@@ -91,24 +91,31 @@ content:
         sub_title: MSc in Health Sciences
         description: | # this will include new lines to allow paragraphs
           - Investigated the modifying effect of pollen on the association between air pollution and mortality
-          - Graduate Teaching Assistant, [Department of Global Environmental Health](https://sites.google.com/m.u-tokyo.ac.jp/envhealth)
-          - Graduate Research Assistant, [Department of Human Ecology](http://www.humeco.m.u-tokyo.ac.jp/en/)
+          - Graduate Teaching Assistant (Sep 2020 - Oct 2020), [Department of Global Environmental Health](https://sites.google.com/m.u-tokyo.ac.jp/envhealth)
+          - Graduate Research Assistant (Jun 2020 - Sep 2020), [Department of Human Ecology](http://www.humeco.m.u-tokyo.ac.jp/en/)
 
       - layout: left
         title: University of Illinois at Urbana-Champaign
         caption: May 2018
         sub_title: BSc in Chemistry
         description: | # this will include new lines to allow paragraphs
-          - Academic Researcher, [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
-          - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
-          - Research Assistant, [Illinois State Water Survey](https://www.isws.illinois.edu/)
+          - Academic Researcher (Mar 2016 - Dec 2018), [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
+          - Research Assistant (Mar 2016 - Dec 2017), [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
+          - Research Assistant (Jun 2017 - Dec 2017), [Illinois State Water Survey](https://www.isws.illinois.edu/)
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      Software
       - Python
-      - R
-      - SQL
+        - Python
+        - R
+        - SQL
+
+      Language
+      - English (Native)
+      - Korean (Native)
+      - Japanese (Conversational)
 
 # Footer
 footer_show_references: true
