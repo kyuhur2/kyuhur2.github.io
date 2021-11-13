@@ -1,4 +1,4 @@
-# Site
+# Site - source: https://github.com/sproogen/modern-resume-theme
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -6,37 +6,24 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Kyu Hur
+title: Software Engineer | Project Researcher | Research Assistant
+email: kyuhur2@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username: kyuhur2
+linkedin_username: kyu-hur-143620b6
+orcid_username: 0000-0002-0690-345X
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: googlescholar
+  icon: fas google
+  url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
+# icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,68 +35,61 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, my name is Kyu and I am passionate about solving modern-day health and business problems with machine learning.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in <mark>Python</mark>, <mark>R</mark>, and <mark>SQL</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
+  - title: Work Experience (Selected) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: FPT Software
+        link: https://www.fpt-software.com/
+        link_text: FPT Software
+        sub_title: Software Engineer
+        caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          	Develop and optimize time-series demand forecasting models utilizing the Python GluonTS, AutoTS, AutoGluon and AutoML frameworks
+          	Communicate directly with the CTO and front-end team to deliver informational PowerBI dashboards and metrics to non-technical end-users
+          	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
+          	Utilize Agile methodologies while managing a collaborative water demand forecasting project to meet the needs of a Malaysian, state-owned enterprise
+          	Oversee day-to-day duties and long-term goals of three data science interns
+
+      - layout: left
+        title: University of Tokyo
+        link: https://www.u-tokyo.ac.jp/en/
+        link_text: University of Tokyo
+        sub_title: Project Researcher
+        caption: Nov 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          	Investigate the 30-year impact of climate change on the variation in pollen seasons across Japan
+          	Explore the association between ozone and temperature and their impact on the suicide rate
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: University of Tokyo
+        caption: 2019 - 2021
+        sub_title: Masters of Science in Health Sciences
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - Investigated the modifying effect of pollen on the association between air pollution and mortality
+          - Graduate Teaching Assistant under the [Department of Global Environmental Health](https://sites.google.com/m.u-tokyo.ac.jp/envhealth) (Environmental Health and Research Methods)
+          - Graduate Research Assistant under the [Department of Human Ecology](http://www.humeco.m.u-tokyo.ac.jp/en/)
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: University of Illinois at Urbana-Champaign
+        caption: 2013 - 2018
+        sub_title: Bachelors of Science in Liberal Arts & Sciences, Chemistry
+        description: | # this will include new lines to allow paragraphs
+          - Academic Researcher under the [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
+          - Research Assistant under the [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
+          - Research Assistant under the [Illinois State Water Survey](https://www.isws.illinois.edu/)
 
-  - title: A Little More About Me
+  - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
