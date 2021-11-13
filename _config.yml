@@ -37,8 +37,6 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
 
-  I am most skilled in <mark>Python</mark>, <mark>R</mark>, and <mark>SQL</mark>.
-
 content:
   - title: Experience (Selected) # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,6 +102,11 @@ content:
           - Academic Researcher, [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
           - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
           - Research Assistant, [Illinois State Water Survey](https://www.isws.illinois.edu/)
+
+  - title: Skill # Title for the section
+    layout: list # Type of content section (list/text)
+    description: |
+      - Python
 
 # Footer
 footer_show_references: true
