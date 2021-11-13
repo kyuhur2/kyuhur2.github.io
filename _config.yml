@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kyu Hur
-title: <b>Software Engineer</b> | <b>Project Researcher</b> | <b>Research Intern</b>
+title: Software Engineer | Project Researcher | Research Intern
 email: <b>kyuhur2@gmail.com</b>
 
 # Dark Mode (true/false/never)
@@ -58,7 +58,7 @@ content:
       - layout: left
         title: Stanford University
         link: https://stanford-health.github.io/
-        link_text: Stanford Center for Personalized Medicine
+        link_text: Center for Personalized Medicine
         sub_title: Research Intern
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
@@ -85,7 +85,7 @@ content:
           -	Spearheaded a three-member project in R to quantify the impact of Macitentan
           - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in Japanese populations
 
-  - title: Education # Title for the section
+  - title: <b>Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -100,7 +100,7 @@ content:
       - layout: left
         title: University of Illinois at Urbana-Champaign
         caption: May 2018
-        sub_title: BSc in Liberal Arts & Sciences, Chemistry
+        sub_title: BSc in Chemistry
         description: | # this will include new lines to allow paragraphs
           - Academic Researcher, [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
           - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
