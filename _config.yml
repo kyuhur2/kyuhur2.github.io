@@ -108,9 +108,12 @@ content:
     content: |
       Software
       - Python
-        - Python
-        - R
-        - SQL
+      - R
+      - SQL
+
+      Tools & Systems
+      - Git
+      - AWS/Azure
 
       Language
       - English (Native)
