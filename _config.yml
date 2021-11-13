@@ -35,7 +35,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kyu and I am passionate about solving modern-day health and business problems with machine learning.
+  Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
 
   I am most skilled in <mark>Python</mark>, <mark>R</mark>, and <mark>SQL</mark>.
 
@@ -50,7 +50,7 @@ content:
         sub_title: Software Engineer
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Develop and optimize time-series demand forecasting models utilizing the Python GluonTS, AutoTS, AutoGluon and AutoML frameworks
+          -	Develop and optimize time-series demand forecasting models utilizing the Python <b>GluonTS</b>, AutoTS, AutoGluon and AutoML frameworks
           -	Communicate directly with the CTO and front-end team to deliver informational dashboards and metrics to non-technical end-users
           -	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
 
@@ -73,6 +73,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           -	Investigate the impact of climate change on the variation in pollen seasons across Japan
           -	Explore the association between ozone and temperature and their impact on the suicide rate
+
+      - layout: left
+        title: The Janssen Pharmaceutical Companies of Johnson and Johnson
+        link: https://www.janssen.com/japan/
+        link_text: Janssen Pharmaceutical
+        sub_title: Medical Affairs
+        caption: Apr 2020 - Dec 2020
+        description: | # this will include new lines to allow paragraphs
+          -	Spearheaded a three-member project in R to quantify the impact of Macitentan
+          - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in different populations
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
