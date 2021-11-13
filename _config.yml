@@ -107,7 +107,6 @@ content:
     layout: text # Type of content section (list/text)
     content:
       - layout: text
-        description: |
           - Python
           - R
 
