@@ -51,28 +51,27 @@ content:
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Develop and optimize time-series demand forecasting models utilizing the Python GluonTS, AutoTS, AutoGluon and AutoML frameworks
-          -	Communicate directly with the CTO and front-end team to deliver informational PowerBI dashboards and metrics to non-technical end-users
+          -	Communicate directly with the CTO and front-end team to deliver informational dashboards and metrics to non-technical end-users
           -	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
-          -	Utilize Agile methodologies while managing a collaborative water demand forecasting project to meet the needs of a Malaysian, state-owned enterprise
-          -	Oversee day-to-day duties and long-term goals of three data science interns
 
       - layout: left
         title: Stanford University
         link: https://stanford-health.github.io/
-        link_text: Stanford University
+        link_text: Stanford Center for Personalized Medicine
         sub_title: Research Intern
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Wearables Project
+          -	Conduct research related to the Wearables Project
+          - Draft and edit research papers
 
       - layout: left
         title: University of Tokyo
         link: https://www.u-tokyo.ac.jp/en/
-        link_text: University of Tokyo
+        link_text: Department of Human Ecology
         sub_title: Project Researcher
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Investigate the 30-year impact of climate change on the variation in pollen seasons across Japan
+          -	Investigate the impact of climate change on the variation in pollen seasons across Japan
           -	Explore the association between ozone and temperature and their impact on the suicide rate
 
   - title: Education # Title for the section
@@ -80,7 +79,7 @@ content:
     content:
       - layout: left
         title: University of Tokyo
-        caption: 2019 - 2021
+        caption: Mar 2021
         sub_title: Masters of Science in Health Sciences
         description: | # this will include new lines to allow paragraphs
           - Investigated the modifying effect of pollen on the association between air pollution and mortality
@@ -89,17 +88,12 @@ content:
 
       - layout: left
         title: University of Illinois at Urbana-Champaign
-        caption: 2013 - 2018
+        caption: May 2018
         sub_title: Bachelors of Science in Liberal Arts & Sciences, Chemistry
         description: | # this will include new lines to allow paragraphs
           - Academic Researcher, [National Soybean Research Center](https://icap.sustainability.illinois.edu/place/national-soybean-research-center)
           - Research Assistant, [Illinois Sustainable Research Center](https://www.istc.illinois.edu/)
           - Research Assistant, [Illinois State Water Survey](https://www.isws.illinois.edu/)
-
-  - title: Interests
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
