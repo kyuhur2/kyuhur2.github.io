@@ -23,6 +23,9 @@ additional_links:
 - title: mail
   icon: fas fa-envelope
   url: mailto:kyuhur2@gmail.com
+- title: download
+  icon: fas fa-file-download
+  url: https://github.com/kyuhur2/kyuhur2.github.io/raw/main/resume/Kyu%20Hur%20-%20Resume%20(Software%20Engineering).pdf
 # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 
 # Google Analytics and Tag Manager
@@ -36,6 +39,8 @@ additional_links:
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
+
+  Please utilize the links in the top right to access any part of my profile and to download my resume.
 
 content:
   - title: Experience (Selected) # Title for the section
