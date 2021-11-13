@@ -104,7 +104,7 @@ content:
           - Research Assistant, [Illinois State Water Survey](https://www.isws.illinois.edu/)
 
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: text
         description: |
