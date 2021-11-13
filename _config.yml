@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Kyu Hur
-title: Software Engineer
-email: kyuhur2@gmail.com
+title: Software Engineer (Machine Learning)
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -41,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>Python</mark>, <mark>R</mark>, and <mark>SQL</mark>.
 
 content:
-  - title: <b>Work Experience (Selected)</b> # Title for the section
+  - title: Experience (Selected) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -85,7 +84,7 @@ content:
           -	Spearheaded a three-member project in R to quantify the impact of Macitentan
           - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in Japanese populations
 
-  - title: <b>Education</b> # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
