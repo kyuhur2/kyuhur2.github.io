@@ -36,7 +36,8 @@ additional_links:
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
-
+  
+  
   Please utilize the links in the top right to access any part of my profile and to download my resume.
 
 content:
