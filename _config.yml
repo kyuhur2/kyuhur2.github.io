@@ -60,7 +60,7 @@ content:
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Conduct research related to the Wearables Project
-          - Draft and edit sections on publications
+          - Draft and edit sections for publications regarding data management
 
       - layout: left
         title: University of Tokyo
@@ -106,16 +106,16 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      Software
+      <b>Software</b>
       - Python
       - R
       - SQL
 
-      Tools & Systems
+      <b>Tools & Systems</b>
       - Git
       - AWS/Azure
 
-      Language
+      <b>Language</b>
       - English (Native)
       - Korean (Native)
       - Japanese (Conversational)
