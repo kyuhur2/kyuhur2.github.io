@@ -38,7 +38,12 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
   
   
-  Please utilize the links in the top right to access any part of my profile and to download my resume.
+  Please utilize the links in the top right to access the following:
+  - Github
+  - Linkedin
+  - Orcid
+  - Google Scholar
+  - Resume
 
 content:
   - title: Experience (Selected) # Title for the section
