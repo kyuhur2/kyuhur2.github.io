@@ -50,10 +50,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: FPT Software
+        title: Software Engineer
         link: https://www.fpt-software.com/
-        link_text: FPT Software
-        sub_title: Software Engineer
+        link_text: Link to Website
+        sub_title: FPT Software
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Develop and optimize time-series demand forecasting models utilizing the Python <b>GluonTS</b>, <b>AutoTS</b>, <b>AutoGluon</b> and <b>AutoML</b> frameworks
@@ -61,30 +61,30 @@ content:
           -	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
 
       - layout: left
-        title: Stanford University
+        title: Research Intern
         link: https://stanford-health.github.io/
-        link_text: Center for Personalized Medicine
-        sub_title: Research Intern
+        link_text: Link to Website
+        sub_title: Stanford University
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Conduct research related to the Wearables Project
           - Draft and edit sections for publications regarding data management
 
       - layout: left
-        title: University of Tokyo
+        title: Project Researcher
         link: https://www.u-tokyo.ac.jp/en/
-        link_text: Department of Human Ecology
-        sub_title: Project Researcher
+        link_text: Link to Website
+        sub_title: University of Tokyo
         caption: Nov 2021 - Present
         description: | # this will include new lines to allow paragraphs
           -	Investigate the impact of climate change on the variation in pollen seasons across Japan
           -	Explore the association between ozone and temperature and their impact on the suicide rate
 
       - layout: left
-        title: Johnson & Johnson
+        title: Medical Affairs
         link: https://www.janssen.com/japan/
-        link_text: Janssen Pharmaceutical
-        sub_title: Medical Affairs
+        link_text: Link to Website
+        sub_title: Johnson & Johnson (Janssen)
         caption: Apr 2020 - Dec 2020
         description: | # this will include new lines to allow paragraphs
           -	Spearheaded a three-member project in R to quantify the impact of Macitentan
