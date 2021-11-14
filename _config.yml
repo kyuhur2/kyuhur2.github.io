@@ -35,7 +35,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning.
+  Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning. I also have extensive experience in health research as well as mentoring students during my time at the University of Illinois, University of Tokyo, and FPT Software.
   
   
   Please utilize the links in the top right to access the following:
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Linkedin
   - Orcid
   - Google Scholar
-  - Resume
+  - Resume (Engineering)
 
 content:
   - title: Experience (Selected) # Title for the section
