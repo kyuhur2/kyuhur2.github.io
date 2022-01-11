@@ -135,27 +135,32 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - title: Disinfection by-product drivers of cytotoxicity in U.S. drinking water, should other DBPs be regulated?
+      - layout: top-middle
+        title: Disinfection by-product drivers of cytotoxicity in U.S. drinking water, should other DBPs be regulated?
         link: https://doi.org/10.1021/acs.est.1c07998
         link_text: <b>Link to Publication</b>
         sub_title: Environmental Science & Technology
 
-      - title: Comparison of Estrogenic, Spectroscopic, and Toxicological Analyses of Pilot-Scale Water, Wastewaters, and Processed Wastewaters at Select Military Installations
+      - layout: top-middle
+        title: Comparison of Estrogenic, Spectroscopic, and Toxicological Analyses of Pilot-Scale Water, Wastewaters, and Processed Wastewaters at Select Military Installations
         link: https://doi.org/10.1021/acs.est.1c00568
         link_text: <b>Link to Publication</b>
         sub_title: Environmental Science & Technology
 
-      - title: The modifying effect of pollen on the association between particulate matter and respiratory mortality, a multi-city analysis in Kyushu, Japan
+      - layout: top-middle
+        title: The modifying effect of pollen on the association between particulate matter and respiratory mortality, a multi-city analysis in Kyushu, Japan
         link: https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2021.P-594
         link_text: <b>Link to Publication</b>
         sub_title: ISEE Conference Abstracts
 
-      - title: Assessment of intra-and inter-assay variation in dried blood spot telomere length measurements by qPCR
+      - layout: top-middle
+        title: Assessment of intra-and inter-assay variation in dried blood spot telomere length measurements by qPCR
         link: https://doi.org/10.1537/ase.2011301
         link_text: <b>Link to Publication</b>
         sub_title: Anthropological Science
 
-      - title: Toxicological comparison of water, wastewaters, and processed wastewaters
+      - layout: top-middle
+        title: Toxicological comparison of water, wastewaters, and processed wastewaters
         link: https://doi.org/10.1021/acs.est.9b00827
         link_text: <b>Link to Publication</b>
         sub_title: Environmental Science & Technology
