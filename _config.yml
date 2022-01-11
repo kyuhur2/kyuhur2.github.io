@@ -133,7 +133,7 @@ content:
       - Japanese (Daily)
 
   - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Disinfection by-product drivers of cytotoxicity in U.S. drinking water, should other DBPs be regulated?
