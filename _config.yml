@@ -10,7 +10,7 @@ name: Kyu Hur
 title: Software Engineer | Health Researcher
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username: kyuhur2
