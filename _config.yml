@@ -166,7 +166,7 @@ content:
         sub_title: Environmental Science & Technology
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: References available upon request
 
 # Build settings
