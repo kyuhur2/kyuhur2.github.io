@@ -1,4 +1,3 @@
-# kyuhur2.github.io
+# Information
 
-Personal website
-
+Repository for https://kyuhur2.github.io

@@ -7,22 +7,19 @@ version: 2
 
 # Personal info
 name: Kyu Hur
-title: Software Engineer (Machine Learning)
+title: Software Engineer | Health Researcher
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username: kyuhur2
 linkedin_username: kyu-hur-143620b6
 orcid_username: 0000-0002-0690-345X
 additional_links:
-- title: googlescholar
-  icon: fab fa-google
-  url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
-- title: download
-  icon: fas fa-file-download
-  url: https://github.com/kyuhur2/kyuhur2.github.io/raw/main/resume/Kyu%20Hur%20-%20Resume%20(Software%20Engineering).pdf
+  - title: googlescholar
+    icon: fab fa-google
+    url: https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en
 # icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 
 # Google Analytics and Tag Manager
@@ -33,17 +30,16 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kyu and I am passionate about solving modern day health and business problems with machine learning. I also have extensive experience in health research as well as mentoring students during my time at the University of Illinois, University of Tokyo, and FPT Software.
-  
-  
+  Hello, my name is Kyu and I work as a Software Engineer with a keen interest in technological innovations. I strive to build efficient and impactful technological products to solve modern day health and business problems with machine learning. I also have extensive experience in health research as well as mentoring students during my time at the University of Illinois, University of Tokyo, and FPT Software.
+
+
   Please utilize the links in the top right to access the following:
   - Github
   - Linkedin
   - Orcid
   - Google Scholar
-  - Resume (Engineering)
 
 content:
   - title: Experience (Selected) # Title for the section
@@ -52,43 +48,45 @@ content:
       - layout: left
         title: Software Engineer
         link: https://www.fpt-software.com/
-        link_text: Link to Website
+        link_text: <b>Link to Website</b>
         sub_title: FPT Software
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Develop and optimize time-series demand forecasting models utilizing the Python <b>GluonTS</b>, <b>AutoTS</b>, <b>AutoGluon</b> and <b>AutoML</b> frameworks
-          -	Communicate directly with the CTO and front-end team to deliver informational dashboards and metrics to non-technical end-users
-          -	Deliver presentations of FPT Software’s end-to-end forecasting SaaS product to clients in Japan, South Korea, Malaysia, Germany, and the United States
+          -	Develop and optimize time-series demand forecasting models on Python, producing <b>5~10%</b> more accurate forecasts on average and saving a projected <b>USD$100,000</b> a year for a client over the next 3 years
+          -	Establish standardized systems design for projects using the <b>nbdev</b>, <b>mlflow</b>, <b>black code formatting/PEP 8</b> frameworks on Python, leading to faster project deliverables and saving approximately <b>eighty man-hours</b> per project
+          -	Deliver <b>monthly</b> presentations of Usee, an end-to-end forecasting SaaS product, to clients in Japan, South Korea, Malaysia, Germany, and the United States
+          - Work directly with the Japan CTO, US CEO, and front-end team in Japan to deliver informational tools and metrics to non-technical end-users
+          - Oversee day-to-day duties and long-term goals of three data science interns and junior data scientists
 
       - layout: left
         title: Research Intern
         link: https://stanford-health.github.io/
-        link_text: Link to Website
+        link_text: <b>Link to Website</b>
         sub_title: Stanford University
         caption: Nov 2021 - Present
-        description: | # this will include new lines to allow paragraphs
-          -	Conduct research related to the Wearables Project
-          - Draft and edit sections for publications regarding data management
+        description: |
+          -	Develop novel data accessibility and data security protocol rating systems of the most popular wearable devices (e.g. Apple Watch) used for clinical settings
+          - Draft a chapter of a comprehensive manuscript discussing the role of wearable devices in health research slated for publication in Lancet Digital Health
 
       - layout: left
         title: Project Researcher
         link: https://www.u-tokyo.ac.jp/en/
-        link_text: Link to Website
+        link_text: <b>Link to Website</b>
         sub_title: University of Tokyo
-        caption: Nov 2021 - Present
-        description: | # this will include new lines to allow paragraphs
+        caption: Feb 2022 (Planned) - Present
+        description: |
           -	Investigate the impact of climate change on the variation in pollen seasons across Japan
           -	Explore the association between ozone and temperature and their impact on the suicide rate
 
       - layout: left
-        title: Medical Affairs
+        title: Medical Affairs Intern
         link: https://www.janssen.com/japan/
-        link_text: Link to Website
-        sub_title: Johnson & Johnson (Janssen)
+        link_text: <b>Link to Website</b>
+        sub_title: Janssen Pharmaceutical Companies of Johnson & Johnson
         caption: Apr 2020 - Dec 2020
-        description: | # this will include new lines to allow paragraphs
-          -	Spearheaded a three-member project in R to quantify the impact of Macitentan
-          - Analyzed clinical data in R to produce in-house reports on the effectiveness of schizophrenia therapies in Japanese populations
+        description: |
+          -	Spearheaded a three-member team project to determine that Macitentan was prescribed twice as frequent as a competitor’s and had fewer side effects
+          - Produced reports on the effectiveness of new schizophrenia therapies in Japan
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,19 +116,58 @@ content:
       - Python
       - R
       - SQL
+      - Java
+      - Svelte
+      - Microsoft Office
 
-      <b>Tools & Systems</b>
+      <b>OS & Tools</b>
       - Git
-      - AWS/Azure
+      - Azure
+      - Windows
+      - Linux
+      - Window Subsystem Linux
 
       <b>Language</b>
       - English (Native)
-      - Korean (Native)
-      - Japanese (Conversational)
+      - Korean (Fluent)
+      - Japanese (Daily)
+
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Disinfection by-product drivers of cytotoxicity in U.S. drinking water, should other DBPs be regulated?
+        link: https://doi.org/10.1021/acs.est.1c07998
+        link_text: <b>Link to Publication</b>
+        sub_title: Environmental Science & Technology
+
+      - layout: left
+        title: Comparison of Estrogenic, Spectroscopic, and Toxicological Analyses of Pilot-Scale Water, Wastewaters, and Processed Wastewaters at Select Military Installations
+        link: https://doi.org/10.1021/acs.est.1c00568
+        link_text: <b>Link to Publication</b>
+        sub_title: Environmental Science & Technology
+
+      - layout: left
+        title: The modifying effect of pollen on the association between particulate matter and respiratory mortality, a multi-city analysis in Kyushu, Japan
+        link: https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2021.P-594
+        link_text: <b>Link to Publication</b>
+        sub_title: ISEE Conference Abstracts
+
+      - layout: left
+        title: Assessment of intra-and inter-assay variation in dried blood spot telomere length measurements by qPCR
+        link: https://doi.org/10.1537/ase.2011301
+        link_text: <b>Link to Publication</b>
+        sub_title: Anthropological Science
+
+      - layout: left
+        title: Toxicological comparison of water, wastewaters, and processed wastewaters
+        link: https://doi.org/10.1021/acs.est.9b00827
+        link_text: <b>Link to Publication</b>
+        sub_title: Environmental Science & Technology
 
 # Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
+references_title: References available upon request
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -140,4 +177,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
