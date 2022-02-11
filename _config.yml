@@ -52,11 +52,11 @@ content:
         sub_title: FPT Software
         caption: Feb 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          -	Develop and optimize time-series demand forecasting models on Python, producing <b>5~10%</b> more accurate forecasts on average and saving a projected <b>USD$100,000</b> a year for a client over the next 3 years
-          -	Establish standardized systems design for projects using the <b>nbdev</b>, <b>mlflow</b>, <b>black code formatting/PEP 8</b> frameworks on Python, leading to faster project deliverables and saving approximately <b>eighty man-hours</b> per project
-          -	Deliver <b>monthly</b> presentations of Usee, an end-to-end forecasting SaaS product, to clients in Japan, South Korea, Malaysia, Germany, and the United States
-          - Work directly with the Japan CTO, US CEO, and front-end team in Japan to deliver informational tools and metrics to non-technical end-users
-          - Oversee day-to-day duties and long-term goals of three data science interns and junior data scientists
+          -	Optimize demand forecasting models on Python, producing 5~10% more accurate forecasts
+          -	Saved a projected USD$100,000 a year for a client over the next 3 years
+          -	Establish basic standardized systems for projects (pre-commit, code formatting, code linting tools) on Python, saving 80 man-hours per project
+          -	Deliver monthly presentations of our SaaS product to clients and external teams in Japan, South Korea, Malaysia, Germany, and the United States
+          -	Oversee duties and long-term goals of three junior data scientists
 
       - layout: left
         title: Research Intern
@@ -73,20 +73,10 @@ content:
         link: https://www.u-tokyo.ac.jp/en/
         link_text: <b>Link to Website</b>
         sub_title: University of Tokyo
-        caption: Feb 2022 (Planned) - Present
+        caption: 2022 (Planned) - Present
         description: |
           -	Investigate the impact of climate change on the variation in pollen seasons across Japan
           -	Explore the association between ozone and temperature and their impact on the suicide rate
-
-      - layout: left
-        title: Medical Affairs Intern
-        link: https://www.janssen.com/japan/
-        link_text: <b>Link to Website</b>
-        sub_title: Janssen Pharmaceutical Companies of Johnson & Johnson
-        caption: Apr 2020 - Dec 2020
-        description: |
-          -	Spearheaded a three-member team project to determine that Macitentan was prescribed twice as frequent as a competitor’s and had fewer side effects
-          - Produced reports on the effectiveness of new schizophrenia therapies in Japan
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -166,7 +156,7 @@ content:
         sub_title: Environmental Science & Technology
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 references_title: References available upon request
 
 # Build settings
