@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Kyu Hur's React TypeScript CV
 
 Repository for https://kyuhur2.github.io. Adopted from Kien Dang's React-TypeScript Resume format.
