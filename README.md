@@ -12,24 +12,20 @@ Repository for https://kyuhur2.github.io. Adopted from Kien Dang's React-TypeScr
 
 ### `yarn install`
 
+Installs the necessary node modules in `./node_modules`.
+
 ### `yarn start`
+
+Hosts an interactive site on the localhost.
 
 ### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-TLDR: The production needs to be run on a server although it does not contains server side script. This is because the build created filenames with the hashes and `%PUBLIC_URL%` paths. You might be interested in setting up a static server for testing the production. For environments using Node, the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest:
-
-```
-yarn global add serve
-serve -s build
-```
+Also see [this](https://github.com/gitname/react-gh-pages) post to learn how to deploy a react app website using github pages.
 
 ## Dependencies
 
