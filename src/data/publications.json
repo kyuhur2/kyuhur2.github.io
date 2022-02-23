@@ -1,0 +1,26 @@
+{
+    "customContent": "",
+    "publications": [
+        {
+            "title": "Toxicological comparison of water, wastewaters, and processed wastewaters",
+            "backgroundColor": "rgb(100, 100, 200)",
+            "content": "<p>Shengkun Dong, Martin A Page, Nedal Massalha, Andy Hur, <b>Kyu Hur</b>...</p>",
+            "link": "<b><a href=\"https://pubs.acs.org/doi/abs/10.1021/acs.est.9b00827\">Link<\/a></b>",
+            "delay": 0
+        },
+        {
+            "title": "Drivers of Disinfection Byproduct Cytotoxicity in US Drinking Water...",
+            "backgroundColor": "rgb(100, 200, 100)",
+            "content": "<p>Joshua M Allen, Michael J Plewa, Elizabeth D Wagner, Xiao Wei, Katherine Bokenkamp, <b>Kyu Hur</b>...</p>",
+            "link": "<b><a href=\"https://pubs.acs.org/doi/abs/10.1021/acs.est.1c07998\">Link<\/a></b>",
+            "delay": 1000
+        },
+        {
+            "title": "Comparison of Estrogenic, Spectroscopic, and Toxicological Analyses...",
+            "backgroundColor": "rgb(100, 200, 200)",
+            "content": "<p>Shengkun Dong, Martin A Page, Andy Hur, <b>Kyu Hur</b>, Katherine Bokenkamp...</p>",
+            "link": "<b><a href=\"https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00568\">Link<\/a></b>",
+            "delay": 2000
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "customContent": "For more information, visit my <a href=\"https://scholar.google.com/citations?user=p-TpuTsAAAAJ&hl=en\">Google Scholar<\/a>!",
+    "projects": [
+        {
+            "title": "Benchmarking Tool",
+            "backgroundColor": "rgb(100, 100, 200)",
+            "content": "<p>Internal tool @FPT Software to benchmark models and datasets while varying hyperparameters</p>",
+            "link": "<b>No Link</b>",
+            "delay": 0
+        },
+        {
+            "title": "Wearipedia Website",
+            "backgroundColor": "rgb(100, 200, 100)",
+            "content": "<p>Lead the wireframing of wearipedia @Stanford, mapping over 20 wearable devices</p>",
+            "link": "<b><a href=\"google.com\">Link<\/a></b>",
+            "delay": 1000
+        },
+        {
+            "title": "Air Pollution and Mortality",
+            "backgroundColor": "rgb(100, 200, 200)",
+            "content": "<p>Investigated the correlation between environmental exposures and mortality @University of Tokyo</p>",
+            "link": "<b><a href=\"https://github.com/kyuhur2/spm_pollen\">Link<\/a></b>",
+            "delay": 2000
+        }
+    ]
+}

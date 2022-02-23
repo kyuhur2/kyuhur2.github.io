@@ -1,0 +1,21 @@
+{
+  "firstName": "Kyu",
+  "middleName": " ",
+  "lastName": "Hur",
+  "avatar": "\/images\/startup_life.svg",
+  "titles": [
+    "Software Engineer",
+    "Health Researcher",
+    "Lifelong Learner"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/kyuhur2",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kyu-h-143620b6",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

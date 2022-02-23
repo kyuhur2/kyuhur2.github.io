@@ -1,0 +1,39 @@
+{
+  "experience": [
+    {      
+      "period": "Feb 2021 - Present",
+      "company": "FPT Software",
+      "title": "Software Engineer",
+      "description": "<p>Tokyo, Japan<\/p>",
+      "link": "<a href=\"https://www.fpt-software.com/\">Company Website<\/a>"
+    },
+    {
+      "period": "Nov 2021 - Present",
+      "company": "Stanford University",
+      "title": "Research Intern",
+      "description": "<p>Remote | California, USA<\/p>",
+      "link": "<a href=\"https://stanford-health.github.io/\">Company Website<\/a>"
+    },
+    {      
+      "period": "Apr 2020 - Dec 2020",
+      "company": "Janssen: Pharmaceutical Companies of Johnson & Johnson",
+      "title": "Medical Affairs Intern",
+      "description": "<p>Tokyo, Japan<\/p>",
+      "link": "<a href=\"https://www.janssen.com/\">Company Website<\/a>"
+    },
+    {      
+      "period": "Jul 2020 - Oct 2020",
+      "company": "University of Tokyo",
+      "title": "Teaching Assistant",
+      "description": "<p>Tokyo, Japan<\/p>",
+      "link": "<a href=\"https://sites.google.com/m.u-tokyo.ac.jp/envhealth/home\">Company Website<\/a>"
+    },
+    {      
+      "period": "Mar 2016 - Dec 2018",
+      "company": "University of Illinois",
+      "title": "Academic Researcher",
+      "description": "<p>Illinois, USA<\/p>",
+      "link": "<a href=\"https://icap.sustainability.illinois.edu/place/national-soybean-research-center\">Company Website<\/a>"
+    }
+  ]
+}
