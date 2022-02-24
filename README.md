@@ -27,6 +27,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Also see [this](https://github.com/gitname/react-gh-pages) post to learn how to deploy a react app website using github pages.
 
+## Notes
+
+To push changes onto the site, the `./node_modules/.cache/gh-pages` has to be deleted as according to [this](https://stackoverflow.com/questions/63964575/fatal-a-branch-named-gh-pages-already-exists) post. No discussion as to why this is the case.
+
 ## Dependencies
 
 - [fortawesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
