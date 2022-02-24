@@ -12,7 +12,7 @@
             "title": "Wearipedia Website",
             "backgroundColor": "rgb(100, 200, 100)",
             "content": "<p>Lead the wireframing of wearipedia @Stanford, mapping over 20 wearable devices</p>",
-            "link": "<b><a href=\"google.com\">Link<\/a></b>",
+            "link": "<b><a href=\"https://www.wearipedia.org\">Link<\/a></b>",
             "delay": 1000
         },
         {
